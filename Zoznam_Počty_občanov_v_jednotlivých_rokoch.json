@@ -1,0 +1,202 @@
+[
+  {
+    "Rok": "2024",
+    "Počet_občanov_spolu": "  79 966",
+    "Počet_mužov": "  38 603",
+    "Počet_žien": "  41 363",
+    "Úbytok": "  1 770",
+    "Prírastok": "  1 426"
+  },
+  {
+    "Rok": "2023",
+    "Počet_občanov_spolu": "  80 310",
+    "Počet_mužov": "  38 774",
+    "Počet_žien": "  41 536",
+    "Úbytok": "  2 199",
+    "Prírastok": "  1 564"
+  },
+  {
+    "Rok": "2022",
+    "Počet_občanov_spolu": "  80 945",
+    "Počet_mužov": "  39 088",
+    "Počet_žien": "  41 857",
+    "Úbytok": "  2 292",
+    "Prírastok": "  1 545"
+  },
+  {
+    "Rok": "2021",
+    "Počet_občanov_spolu": "  81 692",
+    "Počet_mužov": "  39 443",
+    "Počet_žien": "  42 249",
+    "Úbytok": "  2 464",
+    "Prírastok": "  1 698"
+  },
+  {
+    "Rok": "2020",
+    "Počet_občanov_spolu": "  82 458",
+    "Počet_mužov": "  39 830",
+    "Počet_žien": "  42 628",
+    "Úbytok": "  2 031",
+    "Prírastok": "  1 660"
+  },
+  {
+    "Rok": "2019",
+    "Počet_občanov_spolu": "  82 829",
+    "Počet_mužov": "  40 005",
+    "Počet_žien": "  42 824",
+    "Úbytok": "  2 037",
+    "Prírastok": "  1 907"
+  },
+  {
+    "Rok": "2018",
+    "Počet_občanov_spolu": "  82 959",
+    "Počet_mužov": "  40 058",
+    "Počet_žien": "  42 901",
+    "Úbytok": "  2 178",
+    "Prírastok": "  1 879"
+  },
+  {
+    "Rok": "2017",
+    "Počet_občanov_spolu": "  83 258",
+    "Počet_mužov": "  40 225",
+    "Počet_žien": "  43 033",
+    "Úbytok": "  2 089",
+    "Prírastok": "  1 923"
+  },
+  {
+    "Rok": "2016",
+    "Počet_občanov_spolu": "  83 424",
+    "Počet_mužov": "  40 320",
+    "Počet_žien": "  43 104",
+    "Úbytok": "  2 169",
+    "Prírastok": "  2 034"
+  },
+  {
+    "Rok": "2015",
+    "Počet_občanov_spolu": "  83 559",
+    "Počet_mužov": "  40 295",
+    "Počet_žien": "  43 264",
+    "Úbytok": "  2 108",
+    "Prírastok": "  1 944"
+  },
+  {
+    "Rok": "2014",
+    "Počet_občanov_spolu": "  83 723",
+    "Počet_mužov": "  40 389",
+    "Počet_žien": "  43 334",
+    "Úbytok": "  2 071",
+    "Prírastok": "  1 820"
+  },
+  {
+    "Rok": "2013",
+    "Počet_občanov_spolu": "  83 974",
+    "Počet_mužov": "  40 513",
+    "Počet_žien": "  43 461",
+    "Úbytok": "  1 947",
+    "Prírastok": "  1 713"
+  },
+  {
+    "Rok": "2012",
+    "Počet_občanov_spolu": "  84 208",
+    "Počet_mužov": "  40 623",
+    "Počet_žien": "  43 585",
+    "Úbytok": "  2 027",
+    "Prírastok": "  1 754"
+  },
+  {
+    "Rok": "2011",
+    "Počet_občanov_spolu": "  84 481",
+    "Počet_mužov": "  40 709",
+    "Počet_žien": "  43 772",
+    "Úbytok": "  1 946",
+    "Prírastok": "  1 797"
+  },
+  {
+    "Rok": "2010",
+    "Počet_občanov_spolu": "  84 630",
+    "Počet_mužov": "  40 801",
+    "Počet_žien": "  43 829",
+    "Úbytok": "  2 018",
+    "Prírastok": "  1 773"
+  },
+  {
+    "Rok": "2009",
+    "Počet_občanov_spolu": "  84 875",
+    "Počet_mužov": "  40 921",
+    "Počet_žien": "  43 954",
+    "Úbytok": "  1 988",
+    "Prírastok": "  1 755"
+  },
+  {
+    "Rok": "2008",
+    "Počet_občanov_spolu": "  85 108",
+    "Počet_mužov": "  40 994",
+    "Počet_žien": "  44 114",
+    "Úbytok": "  1 903",
+    "Prírastok": "  1 656"
+  },
+  {
+    "Rok": "2007",
+    "Počet_občanov_spolu": "  85 355",
+    "Počet_mužov": "  41 100",
+    "Počet_žien": "  44 255",
+    "Úbytok": "  1 876",
+    "Prírastok": "  1 580"
+  },
+  {
+    "Rok": "2006",
+    "Počet_občanov_spolu": "  85 651",
+    "Počet_mužov": "  41 225",
+    "Počet_žien": "  44 426",
+    "Úbytok": "  1 809",
+    "Prírastok": "  1 522"
+  },
+  {
+    "Rok": "2005",
+    "Počet_občanov_spolu": "  85 938",
+    "Počet_mužov": "  41 304",
+    "Počet_žien": "  44 634",
+    "Úbytok": "  1 711",
+    "Prírastok": "  1 691"
+  },
+  {
+    "Rok": "2004",
+    "Počet_občanov_spolu": "  85 958",
+    "Počet_mužov": "  41 307",
+    "Počet_žien": "  44 651",
+    "Úbytok": "  1 628",
+    "Prírastok": "  1 488"
+  },
+  {
+    "Rok": "2003",
+    "Počet_občanov_spolu": "  86 098",
+    "Počet_mužov": "  41 359",
+    "Počet_žien": "  44 739",
+    "Úbytok": "  1 662",
+    "Prírastok": "  1 516"
+  },
+  {
+    "Rok": "2002",
+    "Počet_občanov_spolu": "  86 244",
+    "Počet_mužov": "  41 451",
+    "Počet_žien": "  44 793",
+    "Úbytok": "  1 641",
+    "Prírastok": "  1 553"
+  },
+  {
+    "Rok": "2001",
+    "Počet_občanov_spolu": "  86 332",
+    "Počet_mužov": "  41 504",
+    "Počet_žien": "  44 828",
+    "Úbytok": "  1 549",
+    "Prírastok": "  1 566"
+  },
+  {
+    "Rok": "2000",
+    "Počet_občanov_spolu": "  86 315",
+    "Počet_mužov": "  41 477",
+    "Počet_žien": "  44 838",
+    "Úbytok": "  1 552",
+    "Prírastok": "  3 379"
+  }
+]
